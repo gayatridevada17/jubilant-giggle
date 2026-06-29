@@ -1,4 +1,4 @@
 # jubilant-giggle
 this is my first git project
 <br>
-author-gayatri devda
+author-deepak singh
